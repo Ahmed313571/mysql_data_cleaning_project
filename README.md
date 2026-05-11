@@ -24,11 +24,11 @@ This project demonstrates data cleaning techniques in MySQL using imported Movie
 - Repaired Corrupt data
 
 # Query Example
-
-![Query Output](Screenshots/mysql_workbench.png)
-
-![Query Output](Screenshots/Verifying_correction.png)
-
-![Query Output](Screenshots/after_data_conversion_numeric_data.png)
+## Querying
+![Querying](Screenshots/mysql_workbench.png)
+## Verifying Data Correction
+![Verifying Data Correction](Screenshots/Verifying_correction.png)
+## Data Conversion (Text to Numeric) 
+![Data Conversion (Text to Numeric)](Screenshots/after_data_conversion_numeric_data.png)
 
 
