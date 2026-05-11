@@ -25,5 +25,5 @@ This project demonstrates data cleaning techniques in MySQL using imported Movie
 
 # Query Example
 
-![Query Output](screenshots/mysql_workbench.png)
+![Query Output](Screenshots/mysql_workbench.png)
 
