@@ -1,0 +1,5 @@
+-- This querying session will: --
+-- 1) Repair Corrupted data --
+-- 2) Change incorrect column data type to relevant data type --
+--    a) Converting TEXT data type to Date --
+--    b) Converting $ TEXT data type to a numeric decimal value as new columns --
