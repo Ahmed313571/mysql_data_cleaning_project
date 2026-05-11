@@ -1,4 +1,4 @@
--- Cleaning the $ text values for the new column for Budget --
+-- Cleaning the $ text values and commas for the new Budget column --
 
 UPDATE `movie.1`
 SET Budget_1 =
