@@ -21,4 +21,9 @@ This project demonstrates data cleaning techniques in MySQL using imported Movie
 - Converted text dates into DATE format
 - Removed currency symbols from text fields
 - Converted TEXT columns into DECIMAL values
-- Repaired Corrupt data 
+- Repaired Corrupt data
+
+# Query Example
+
+![Query Output](screenshots/mysql_workbench.png)
+
